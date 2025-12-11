@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Mount Olympus Visualization",
-  description: "Interactive 3D visualization of the Olympian Gods",
+  description: "Interactive 3D visualization of the Olympian Gods by Xavier Leffler",
 };
 
 export default function RootLayout({
